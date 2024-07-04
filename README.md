@@ -1,1 +1,1 @@
-<h1>This is the gana application</h1>
+<h1>This is an gana application</h1>
